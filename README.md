@@ -16,7 +16,7 @@ toss app의 flow를 살펴보며 만들어 볼 예정이다.
 ### version
 
 - python 3.8.5
-- django 3.2.9
+- django 4.0.0
 
 ### 가상환경
 
